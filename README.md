@@ -41,3 +41,7 @@ usdt闪兑机器人，可配置多个机器人，设置不同的汇率，自动�
 自动开通电报会员功能，可设置相应套餐价格，自助下单开通
 
 商城卡密功能，可自动购买，充值购买，批量上架，卡密加密等
+
+<img width="381" alt="image" src="https://github.com/user-attachments/assets/ef5375d8-c53f-4e94-bcfc-a0ce51730c8c">
+
+
