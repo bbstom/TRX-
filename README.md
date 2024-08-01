@@ -2,7 +2,8 @@
 <h3>TG机器人 TRX能量商城会员兑换</h3>
 <h3>自动化USDT兑换TRX的Telegram机器人 完整功能</h3>
 
-<img width="381" alt="image" src="https://github.com/user-attachments/assets/ef5375d8-c53f-4e94-bcfc-a0ce51730c8c">
+<img width="387" alt="image" src="https://github.com/user-attachments/assets/a659f579-ba0a-4ca4-a7a0-3770aeb363f5">
+
 
 <h4>
 <a href="https://t.me/Trxec_bot">👉TRX兑换 能量租赁 TG体验机器人</a>
@@ -42,6 +43,6 @@ usdt闪兑机器人，可配置多个机器人，设置不同的汇率，自动�
 
 商城卡密功能，可自动购买，充值购买，批量上架，卡密加密等
 
-<img width="381" alt="image" src="https://github.com/user-attachments/assets/ef5375d8-c53f-4e94-bcfc-a0ce51730c8c">
+<img width="387" alt="image" src="https://github.com/user-attachments/assets/a659f579-ba0a-4ca4-a7a0-3770aeb363f5">
 
 
